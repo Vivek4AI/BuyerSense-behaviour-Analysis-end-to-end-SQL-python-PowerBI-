@@ -1,6 +1,6 @@
 # 🧠 Buyer Sense – Customer Behaviour Analysis (End-to-End Project)
 
-![BuyerSense Dashboard](images/buyer_sense_dashboard.png)
+![BuyerSense Dashboard](buyer_sense_dashboard.png)
 
 
 
