@@ -1,6 +1,7 @@
 # 🧠 Buyer Sense – Customer Behaviour Analysis (End-to-End Project)
 
-![BuyerSense Dashboard](BuyerSense_Dashboard_Image.png)
+![BuyerSense Dashboard](images/buyer_sense_dashboard.png)
+
 
 
 > An end-to-end **Customer Behaviour Analysis** project by **Vivek Sharma**, built using **Python, SQL, and Power BI**, designed to explore, analyze, and visualize buyer patterns to support data-driven decision-making.
@@ -49,7 +50,8 @@ This project follows the **complete data analytics lifecycle** — from data col
 ## 📸 Project Dashboard Preview
 
 *(Replace the image below with your Power BI dashboard screenshot)*  
-![Dashboard Screenshot]([images/BuyerSense_Dashboard_Image.png](https://github.com/Vivek4AI/BuyerSense-behaviour-Analysis-end-to-end-SQL-python-PowerBI-/blob/main/BuyerSense%20Dashboard%20Image.png))
+![BuyerSense Dashboard](images/buyer_sense_dashboard.png)
+
 
 ---
 
