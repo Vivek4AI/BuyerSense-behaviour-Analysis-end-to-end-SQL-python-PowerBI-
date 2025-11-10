@@ -50,7 +50,7 @@ This project follows the **complete data analytics lifecycle** — from data col
 ## 📸 Project Dashboard Preview
 
 *(Replace the image below with your Power BI dashboard screenshot)*  
-![BuyerSense Dashboard](images/buyer_sense_dashboard.png)
+![BuyerSense Dashboard](buyer_sense_dashboard.png)
 
 
 ---
